@@ -1,0 +1,6 @@
+more practical questions.
+give options
+scenario based questions
+what is the 
+ask about component properties.
+how we can dml file also to be checked in eme along with config ( shared file)
